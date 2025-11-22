@@ -12,7 +12,6 @@ public class Product_of_arrayElements{
                 }
                 else{
                     product=product*numbers[j];
-                    System.out.println(product);
                     arr[i]=product;
 
                 }
