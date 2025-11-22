@@ -1,3 +1,4 @@
+//Given an array of integers, return a new array where each element is replaced by the product of all elements except itself, without using division.
 import java.util.Arrays;
 public class Product_of_arrayElements{
     public static void main(String[]args){
